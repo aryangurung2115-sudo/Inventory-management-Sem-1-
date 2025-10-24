@@ -1,4 +1,4 @@
- #include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -98,4 +98,5 @@ int main() {
     system("pause"); // Keep the console open
     return 0;
 }
+
 
